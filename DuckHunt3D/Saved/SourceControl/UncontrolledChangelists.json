@@ -11,7 +11,10 @@
 				"C:/Users/gonza/Documents/Videojuegos propios/DuckHunt3D/DuckHunt3D/Content/Player/Blueprints/BP_FirstPersonPlayer.uasset",
 				"C:/Users/gonza/Documents/Videojuegos propios/DuckHunt3D/DuckHunt3D/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"C:/Users/gonza/Documents/Videojuegos propios/DuckHunt3D/DuckHunt3D/Content/Blueprints/BP_Duck.uasset",
-				"C:/Users/gonza/Documents/Videojuegos propios/DuckHunt3D/DuckHunt3D/Content/Blueprints/BP_DuckSpawner.uasset"
+				"C:/Users/gonza/Documents/Videojuegos propios/DuckHunt3D/DuckHunt3D/Content/Blueprints/BP_DuckSpawner.uasset",
+				"C:/Users/gonza/Documents/Videojuegos propios/DuckHunt3D/DuckHunt3D/Content/Input/IA_Shoot.uasset",
+				"C:/Users/gonza/Documents/Videojuegos propios/DuckHunt3D/DuckHunt3D/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/gonza/Documents/Videojuegos propios/DuckHunt3D/DuckHunt3D/Content/UI/WBP_Crosshair.uasset"
 			]
 		}
 	]
