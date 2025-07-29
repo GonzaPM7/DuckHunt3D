@@ -2696,3 +2696,989 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.29-12.10.26:190][228]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.07.29-12.10.26:190][228]AssetCheck: /Game/Maps/Game Validating asset
 [2025.07.29-12.10.27:483][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.07.29-12.14.07:486][553]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1021.515076
+[2025.07.29-12.14.08:486][556]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.29-12.14.08:486][556]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1022.182190, Update Interval: 309.613342
+[2025.07.29-12.19.28:196][515]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1342.225464
+[2025.07.29-12.19.29:197][518]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.29-12.19.29:197][518]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1342.892456, Update Interval: 331.905273
+[2025.07.29-12.25.20:924][574]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1694.954102
+[2025.07.29-12.25.21:925][576]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.29-12.25.21:925][576]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1695.621460, Update Interval: 346.387512
+[2025.07.29-12.31.58:734][ 30]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2092.762939
+[2025.07.29-12.31.59:733][ 33]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.29-12.31.59:733][ 33]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2093.429688, Update Interval: 303.572510
+[2025.07.29-12.34.11:632][820]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_DuckGameMode.BP_DuckGameMode
+[2025.07.29-12.34.11:633][820]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.07.29-12.34.15:199][207]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_DuckSpawner.BP_DuckSpawner
+[2025.07.29-12.34.15:199][207]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.07.29-12.37.47:867][962]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2441.896484
+[2025.07.29-12.37.48:867][965]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.29-12.37.48:867][965]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2442.564697, Update Interval: 358.892181
+[2025.07.29-12.44.41:605][203]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2855.637207
+[2025.07.29-12.44.42:605][206]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.29-12.44.42:605][206]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2856.303955, Update Interval: 313.365265
+[2025.07.29-12.50.41:663][283]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3215.691162
+[2025.07.29-12.50.42:663][286]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.29-12.50.42:663][286]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3216.357422, Update Interval: 330.890839
+[2025.07.29-12.57.00:383][419]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3594.410400
+[2025.07.29-12.57.01:382][422]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.29-12.57.01:382][422]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3595.076660, Update Interval: 353.506897
+[2025.07.29-12.59.02:921][254]LogDerivedDataCache: C:/Users/gonza/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.29-13.03.37:255][395]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_HUD.WBP_HUD
+[2025.07.29-13.03.37:255][395]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.07.29-13.03.37:263][395]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.07.29-13.03.37:269][395]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.07.29-13.03.40:895][783]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3994.919678
+[2025.07.29-13.03.41:062][803]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.29-13.03.41:062][803]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3995.078125, Update Interval: 357.460266
+[2025.07.29-13.05.46:513][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.07.29-13.06.23:243][379]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.29-13.06.23:267][379]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_DuckGameMode] ([2] browsable assets)...
+[2025.07.29-13.06.23:267][379]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_DuckGameMode]
+[2025.07.29-13.06.23:285][379]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_DuckGameMode
+[2025.07.29-13.06.23:285][379]LogSavePackage: Moving '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Saved/BP_DuckGameModeF890FFC149005F68D3232CB590C0934C.tmp' to '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Content/Blueprints/BP_DuckGameMode.uasset'
+[2025.07.29-13.06.23:291][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.632 ms (total: 1.10 sec)
+[2025.07.29-13.06.23:317][379]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.29-13.06.23:317][379]LogContentValidation: Enabled validators:
+[2025.07.29-13.06.23:317][379]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.29-13.06.23:317][379]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.29-13.06.23:317][379]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.29-13.06.23:317][379]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.29-13.06.23:317][379]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.29-13.06.23:317][379]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.29-13.06.23:317][379]AssetCheck: /Game/Blueprints/BP_DuckGameMode Validating asset
+[2025.07.29-13.10.29:124][370]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4403.145996
+[2025.07.29-13.10.30:123][373]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.29-13.10.30:124][373]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4403.811523, Update Interval: 305.165558
+[2025.07.29-13.12.11:125][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.07.29-13.12.29:333][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.07.29-13.12.40:517][112]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.07.29-13.12.41:343][203]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/Blueprints/BP_FirstPersonPlayer.BP_FirstPersonPlayer
+[2025.07.29-13.12.41:343][203]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.07.29-13.15.18:807][418]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.07.29-13.15.18:816][418]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.07.29-13.15.18:825][418]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.07.29-13.15.18:839][419]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.07.29-13.15.18:856][422]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.07.29-13.15.28:851][621]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_shotCameraShake
+[2025.07.29-13.15.28:856][621]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.07.29-13.15.44:417][465]LogContentBrowser: Attempting asset rename: BP_shotCameraShake -> BP_ShotCameraShake
+[2025.07.29-13.15.44:481][465]LogMetaData: Removing '/Game/Player/Blueprints/RenameTmp.SKEL_RenameTmp_C' ref from Metadata '/Game/Player/Blueprints/BP_shotCameraShake.PackageMetaData'
+[2025.07.29-13.15.44:481][465]LogMetaData: Removing '/Game/Player/Blueprints/RenameTmp.RenameTmp_C' ref from Metadata '/Game/Player/Blueprints/BP_shotCameraShake.PackageMetaData'
+[2025.07.29-13.15.44:522][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.07.29-13.15.44:535][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.07.29-13.15.44:546][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.07.29-13.15.44:548][465]LogMetaData: Removing '/Game/Player/Blueprints/BP_ShotCameraShake.BP_ShotCameraShake_C' ref from Metadata '/Game/Player/Blueprints/RenameTmp.PackageMetaData'
+[2025.07.29-13.15.44:548][465]LogMetaData: Removing '/Game/Player/Blueprints/BP_ShotCameraShake.SKEL_BP_ShotCameraShake_C' ref from Metadata '/Game/Player/Blueprints/RenameTmp.PackageMetaData'
+[2025.07.29-13.15.44:570][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.07.29-13.15.44:583][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.07.29-13.15.44:595][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.07.29-13.15.49:871][ 90]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/Blueprints/BP_ShotCameraShake.BP_ShotCameraShake
+[2025.07.29-13.15.49:871][ 90]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.07.29-13.15.53:136][438]LogSlate: Window 'BP_ShotCameraShake' being destroyed
+[2025.07.29-13.16.17:209][285]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4751.238281
+[2025.07.29-13.16.17:433][301]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.29-13.16.17:433][301]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4751.454102, Update Interval: 318.878754
+[2025.07.29-13.17.14:836][595]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.07.29-13.17.14:837][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-13.17.14:890][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.07.29-13.17.21:195][146]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/Blueprints/BP_ShotCameraShake.BP_ShotCameraShake
+[2025.07.29-13.17.21:196][146]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.07.29-13.17.38:709][976]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.07.29-13.17.38:712][976]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.07.29-13.17.39:010][977]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.07.29-13.17.39:014][977]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.07.29-13.17.39:345][978]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.07.29-13.17.39:349][978]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.07.29-13.17.39:677][979]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.07.29-13.17.39:680][979]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.07.29-13.17.58:121][206]LogSlate: Window 'BP_ShotCameraShake' being destroyed
+[2025.07.29-13.17.58:131][206]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.07.29-13.17.58:131][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-13.17.58:147][206]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/Blueprints/BP_ShotCameraShake.BP_ShotCameraShake
+[2025.07.29-13.17.58:148][206]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.07.29-13.17.58:428][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.07.29-13.18.06:250][128]LogSlate: Window 'BP_ShotCameraShake' being destroyed
+[2025.07.29-13.18.39:634][129]LogSlate: Took 0.007575 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.07.29-13.18.43:434][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.07.29-13.20.58:209][833]LogSlate: Window 'About Unreal Editor' being destroyed
+[2025.07.29-13.21.15:336][379]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.07.29-13.21.15:336][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-13.21.15:368][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.07.29-13.21.19:162][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.07.29-13.21.20:487][826]LogSlate: Window 'Delete Assets' being destroyed
+[2025.07.29-13.21.20:518][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.07.29-13.21.20:529][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.07.29-13.21.20:541][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.07.29-13.21.41:193][226]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.07.29-13.21.41:201][226]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.07.29-13.21.41:206][226]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.07.29-13.21.41:213][227]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.07.29-13.21.55:530][919]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_shotCameraShake
+[2025.07.29-13.21.55:534][919]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.07.29-13.22.03:451][857]LogContentBrowser: Attempting asset rename: BP_shotCameraShake -> BP_ShotCameraShake
+[2025.07.29-13.22.03:502][857]LogMetaData: Removing '/Game/Player/Blueprints/RenameTmp.SKEL_RenameTmp_C' ref from Metadata '/Game/Player/Blueprints/BP_shotCameraShake.PackageMetaData'
+[2025.07.29-13.22.03:502][857]LogMetaData: Removing '/Game/Player/Blueprints/RenameTmp.RenameTmp_C' ref from Metadata '/Game/Player/Blueprints/BP_shotCameraShake.PackageMetaData'
+[2025.07.29-13.22.03:524][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.07.29-13.22.03:538][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.07.29-13.22.03:550][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.07.29-13.22.03:551][857]LogMetaData: Removing '/Game/Player/Blueprints/BP_ShotCameraShake.BP_ShotCameraShake_C' ref from Metadata '/Game/Player/Blueprints/RenameTmp.PackageMetaData'
+[2025.07.29-13.22.03:551][857]LogMetaData: Removing '/Game/Player/Blueprints/BP_ShotCameraShake.SKEL_BP_ShotCameraShake_C' ref from Metadata '/Game/Player/Blueprints/RenameTmp.PackageMetaData'
+[2025.07.29-13.22.03:572][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.07.29-13.22.03:584][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.07.29-13.22.03:596][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.07.29-13.22.12:632][158]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/Blueprints/BP_ShotCameraShake.BP_ShotCameraShake
+[2025.07.29-13.22.12:632][158]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.07.29-13.22.31:805][429]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5125.782715
+[2025.07.29-13.22.31:938][445]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.29-13.22.31:938][445]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5125.908203, Update Interval: 318.596771
+[2025.07.29-13.22.32:092][463]LogSlate: Window 'BP_ShotCameraShake' being destroyed
+[2025.07.29-13.22.32:095][463]LogSlate: Window 'BP_ShotCameraShake' being destroyed
+[2025.07.29-13.22.32:137][463]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.07.29-13.22.32:137][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-13.22.32:188][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.07.29-13.22.36:582][985]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/Blueprints/BP_ShotCameraShake.BP_ShotCameraShake
+[2025.07.29-13.22.36:582][985]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.07.29-13.25.03:780][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.07.29-13.25.04:606][678]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.29-13.25.04:628][678]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/Blueprints/BP_ShotCameraShake] ([2] browsable assets)...
+[2025.07.29-13.25.04:628][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Blueprints/BP_ShotCameraShake]
+[2025.07.29-13.25.04:629][678]LogSavePackage: Moving output files for package: /Game/Player/Blueprints/BP_ShotCameraShake
+[2025.07.29-13.25.04:629][678]LogSavePackage: Moving '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Saved/BP_ShotCameraShakeF4329CD642D2B290D92F56BD0893296B.tmp' to '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Content/Player/Blueprints/BP_ShotCameraShake.uasset'
+[2025.07.29-13.25.04:635][678]LogFileHelpers: InternalPromptForCheckoutAndSave took 30.150 ms (total: 1.13 sec)
+[2025.07.29-13.25.04:664][678]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.29-13.25.04:664][678]LogContentValidation: Enabled validators:
+[2025.07.29-13.25.04:664][678]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.29-13.25.04:664][678]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.29-13.25.04:664][678]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.29-13.25.04:664][678]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.29-13.25.04:664][678]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.29-13.25.04:664][678]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.29-13.25.04:664][678]AssetCheck: /Game/Player/Blueprints/BP_ShotCameraShake Validating asset
+[2025.07.29-13.25.04:781][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.29-13.25.04:809][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/Blueprints/BP_ShotCameraShake] ([2] browsable assets)...
+[2025.07.29-13.25.04:809][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Blueprints/BP_ShotCameraShake]
+[2025.07.29-13.25.04:810][691]LogSavePackage: Moving output files for package: /Game/Player/Blueprints/BP_ShotCameraShake
+[2025.07.29-13.25.04:810][691]LogSavePackage: Moving '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Saved/BP_ShotCameraShake8A52F9B44352D87A0917BDAEB1D10E46.tmp' to '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Content/Player/Blueprints/BP_ShotCameraShake.uasset'
+[2025.07.29-13.25.04:815][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.771 ms (total: 1.17 sec)
+[2025.07.29-13.25.04:845][691]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.29-13.25.04:845][691]LogContentValidation: Enabled validators:
+[2025.07.29-13.25.04:845][691]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.29-13.25.04:845][691]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.29-13.25.04:845][691]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.29-13.25.04:845][691]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.29-13.25.04:845][691]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.29-13.25.04:845][691]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.29-13.25.04:845][691]AssetCheck: /Game/Player/Blueprints/BP_ShotCameraShake Validating asset
+[2025.07.29-13.25.16:809][126]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.29-13.25.16:838][126]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/Blueprints/BP_ShotCameraShake] ([2] browsable assets)...
+[2025.07.29-13.25.16:838][126]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Blueprints/BP_ShotCameraShake]
+[2025.07.29-13.25.16:839][126]LogSavePackage: Moving output files for package: /Game/Player/Blueprints/BP_ShotCameraShake
+[2025.07.29-13.25.16:840][126]LogSavePackage: Moving '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Saved/BP_ShotCameraShake0F1F9C204ECC95801EB21DAA725A6CEA.tmp' to '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Content/Player/Blueprints/BP_ShotCameraShake.uasset'
+[2025.07.29-13.25.16:844][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.222 ms (total: 1.20 sec)
+[2025.07.29-13.25.16:865][126]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.29-13.25.16:865][126]LogContentValidation: Enabled validators:
+[2025.07.29-13.25.16:865][126]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.29-13.25.16:865][126]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.29-13.25.16:865][126]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.29-13.25.16:865][126]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.29-13.25.16:865][126]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.29-13.25.16:865][126]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.29-13.25.16:865][126]AssetCheck: /Game/Player/Blueprints/BP_ShotCameraShake Validating asset
+[2025.07.29-13.25.16:997][141]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.29-13.25.17:019][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/Blueprints/BP_ShotCameraShake] ([2] browsable assets)...
+[2025.07.29-13.25.17:019][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Blueprints/BP_ShotCameraShake]
+[2025.07.29-13.25.17:020][141]LogSavePackage: Moving output files for package: /Game/Player/Blueprints/BP_ShotCameraShake
+[2025.07.29-13.25.17:020][141]LogSavePackage: Moving '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Saved/BP_ShotCameraShakeF03A029C415D3F9936018883C63B9DBE.tmp' to '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Content/Player/Blueprints/BP_ShotCameraShake.uasset'
+[2025.07.29-13.25.17:025][141]LogFileHelpers: InternalPromptForCheckoutAndSave took 28.030 ms (total: 1.23 sec)
+[2025.07.29-13.25.17:054][141]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.29-13.25.17:054][141]LogContentValidation: Enabled validators:
+[2025.07.29-13.25.17:054][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.29-13.25.17:054][141]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.29-13.25.17:054][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.29-13.25.17:054][141]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.29-13.25.17:054][141]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.29-13.25.17:054][141]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.29-13.25.17:054][141]AssetCheck: /Game/Player/Blueprints/BP_ShotCameraShake Validating asset
+[2025.07.29-13.25.17:731][220]LogSlate: Window 'BP_ShotCameraShake' being destroyed
+[2025.07.29-13.25.17:738][220]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.07.29-13.25.17:738][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-13.25.17:770][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.07.29-13.25.58:175][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.07.29-13.25.58:177][536]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Game' took 0.016
+[2025.07.29-13.25.58:178][536]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Player/Blueprints/BP_FirstPersonPlayer] ([2] browsable assets)...
+[2025.07.29-13.25.58:277][536]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Player/Blueprints/BP_FirstPersonPlayer.BP_FirstPersonPlayer]
+[2025.07.29-13.25.58:277][536]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Blueprints/BP_FirstPersonPlayer]
+[2025.07.29-13.25.58:287][536]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Player/Blueprints/BP_FirstPersonPlayer_Auto1
+[2025.07.29-13.25.58:287][536]LogSavePackage: Moving '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Saved/BP_FirstPersonPlayer_Auto14CF5737D4FC3D7797DD74888FC10DA83.tmp' to '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Saved/Autosaves/Game/Player/Blueprints/BP_FirstPersonPlayer_Auto1.uasset'
+[2025.07.29-13.25.58:288][536]LogFileHelpers: Auto-saving content packages took 0.111
+[2025.07.29-13.28.27:930][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.07.29-13.28.28:655][290]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.29-13.28.28:678][290]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Player/Blueprints/BP_FirstPersonPlayer] ([2] browsable assets)...
+[2025.07.29-13.28.28:716][290]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Player/Blueprints/BP_FirstPersonPlayer.BP_FirstPersonPlayer]
+[2025.07.29-13.28.28:716][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Blueprints/BP_FirstPersonPlayer]
+[2025.07.29-13.28.28:725][290]LogSavePackage: Moving output files for package: /Game/Player/Blueprints/BP_FirstPersonPlayer
+[2025.07.29-13.28.28:726][290]LogSavePackage: Moving '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Saved/BP_FirstPersonPlayerEF045CBA4DF2FDA1ED6735BAF4C3E815.tmp' to '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Content/Player/Blueprints/BP_FirstPersonPlayer.uasset'
+[2025.07.29-13.28.28:732][290]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.354 ms (total: 1.31 sec)
+[2025.07.29-13.28.28:760][290]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.29-13.28.28:760][290]LogContentValidation: Enabled validators:
+[2025.07.29-13.28.28:760][290]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.29-13.28.28:760][290]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.29-13.28.28:760][290]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.29-13.28.28:760][290]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.29-13.28.28:760][290]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.29-13.28.28:760][290]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.29-13.28.28:760][290]AssetCheck: /Game/Player/Blueprints/BP_FirstPersonPlayer Validating asset
+[2025.07.29-13.28.29:716][378]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.29-13.28.29:722][378]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.29-13.28.29:747][378]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Game
+[2025.07.29-13.28.29:755][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007495s)
+[2025.07.29-13.28.29:755][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Game.Game to /Game/Maps/UEDPIE_0_Game.Game (0.007532s)
+[2025.07.29-13.28.29:767][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.07.29-13.28.29:769][378]LogChaosDD: Creating Chaos Debug Draw Scene for world Game
+[2025.07.29-13.28.29:771][378]LogPlayLevel: PIE: World Init took: (0.001119s)
+[2025.07.29-13.28.29:771][378]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.07.29-13.28.29:771][378]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.29-13.28.29:771][378]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.29-13.28.29:771][378]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.29-13.28.29:771][378]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.29-13.28.29:771][378]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.07.29-13.28.29:771][378]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.29-13.28.29:771][378]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.07.29-13.28.29:771][378]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.29-13.28.29:771][378]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.29-13.28.29:771][378]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.29-13.28.29:771][378]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.29-13.28.29:773][378]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.29-13.28.29:794][378]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- High Definition Audio Device)
+[2025.07.29-13.28.29:794][378]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.29-13.28.29:794][378]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.29-13.28.29:794][378]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.29-13.28.29:795][378]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.07.29-13.28.29:795][378]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.07.29-13.28.29:797][378]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.07.29-13.28.29:797][378]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.07.29-13.28.29:797][378]LogInit: FAudioDevice initialized with ID 12.
+[2025.07.29-13.28.29:797][378]LogAudio: Display: Audio Device (ID: 12) registered with world 'Game'.
+[2025.07.29-13.28.29:797][378]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.07.29-13.28.29:799][378]LogLoad: Game class is 'BP_DuckGameMode_C'
+[2025.07.29-13.28.29:802][378]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2025.07.29-15.28.29
+[2025.07.29-13.28.29:802][378]LogWorld: Bringing up level for play took: 0.002914
+[2025.07.29-13.28.29:804][378]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.07.29-13.28.29:806][378]Cmd: Command: r.SetRes 1920x1080f
+[2025.07.29-13.28.29:806][378]Command not recognized: Command: r.SetRes 1920x1080f
+[2025.07.29-13.28.29:806][378]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_0' was already added to the screen.
+[2025.07.29-13.28.29:806][378]LogScript: Warning: Script Msg called by: BP_DuckGameMode_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_DuckGameMode_C_0
+[2025.07.29-13.28.29:807][378]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] Start Game
+[2025.07.29-13.28.29:807][378]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] 300.0
+[2025.07.29-13.28.29:807][378]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] 1.0
+[2025.07.29-13.28.29:807][378]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number0 / 10
+[2025.07.29-13.28.29:808][378]LogBlueprintUserMessages: [BP_Duck_C_0] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-13.28.29:808][378]LogScript: Warning: Script Msg: BP_Duck_C_0 ChangeDirection SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.07.29-13.28.29:808][378]LogScript: Warning: Script Msg called by: BP_Duck_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_Duck_C_0
+[2025.07.29-13.28.29:808][378]PIE: Server logged in
+[2025.07.29-13.28.29:809][378]PIE: Play in editor total start time 0,087 seconds.
+[2025.07.29-13.28.34:303][911]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number1 / 10
+[2025.07.29-13.28.34:304][911]LogBlueprintUserMessages: [BP_Duck_C_1] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-13.28.38:502][415]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number2 / 10
+[2025.07.29-13.28.38:502][415]LogBlueprintUserMessages: [BP_Duck_C_2] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-13.28.38:502][415]LogScript: Warning: Script Msg: BP_Duck_C_2 ChangeDirection SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.07.29-13.28.38:502][415]LogScript: Warning: Script Msg called by: BP_Duck_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_Duck_C_2
+[2025.07.29-13.28.38:723][441]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5492.621582
+[2025.07.29-13.28.38:855][457]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.29-13.28.38:855][458]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5492.747070, Update Interval: 325.410309
+[2025.07.29-13.28.41:436][767]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number3 / 10
+[2025.07.29-13.28.41:437][767]LogBlueprintUserMessages: [BP_Duck_C_3] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-13.28.41:437][767]LogScript: Warning: Script Msg: BP_Duck_C_3 ChangeDirection SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.07.29-13.28.41:437][767]LogScript: Warning: Script Msg called by: BP_Duck_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_Duck_C_3
+[2025.07.29-13.28.41:678][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.29-13.28.41:678][792]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Game
+[2025.07.29-13.28.41:678][792]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2025.07.29-13.28.41:679][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-13.28.41:683][792]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.29-13.28.41:685][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-13.28.41:699][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.29-13.28.41:699][792]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.07.29-13.28.41:699][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.07.29-13.28.41:701][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.07.29-13.28.41:707][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.07.29-13.28.41:747][794]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.07.29-13.28.44:938][114]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.29-13.28.44:944][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.29-13.28.44:944][114]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Game
+[2025.07.29-13.28.44:950][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006610s)
+[2025.07.29-13.28.44:950][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Game.Game to /Game/Maps/UEDPIE_0_Game.Game (0.006636s)
+[2025.07.29-13.28.44:962][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.07.29-13.28.44:963][114]LogChaosDD: Creating Chaos Debug Draw Scene for world Game
+[2025.07.29-13.28.44:964][114]LogPlayLevel: PIE: World Init took: (0.000959s)
+[2025.07.29-13.28.44:964][114]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.07.29-13.28.44:964][114]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.29-13.28.44:964][114]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.29-13.28.44:964][114]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.29-13.28.44:964][114]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.29-13.28.44:964][114]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.07.29-13.28.44:964][114]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.29-13.28.44:964][114]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.07.29-13.28.44:964][114]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.29-13.28.44:964][114]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.29-13.28.44:964][114]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.29-13.28.44:964][114]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.29-13.28.44:966][114]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.29-13.28.44:983][114]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- High Definition Audio Device)
+[2025.07.29-13.28.44:983][114]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.29-13.28.44:983][114]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.29-13.28.44:983][114]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.29-13.28.44:983][114]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.07.29-13.28.44:983][114]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.07.29-13.28.44:985][114]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.07.29-13.28.44:985][114]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.07.29-13.28.44:985][114]LogInit: FAudioDevice initialized with ID 13.
+[2025.07.29-13.28.44:985][114]LogAudio: Display: Audio Device (ID: 13) registered with world 'Game'.
+[2025.07.29-13.28.44:985][114]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.07.29-13.28.45:004][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.29-13.28.45:004][114]LogLoad: Game class is 'BP_DuckGameMode_C'
+[2025.07.29-13.28.45:007][114]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2025.07.29-15.28.45
+[2025.07.29-13.28.45:007][114]LogWorld: Bringing up level for play took: 0.002980
+[2025.07.29-13.28.45:008][114]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.07.29-13.28.45:010][114]Cmd: Command: r.SetRes 1920x1080f
+[2025.07.29-13.28.45:010][114]Command not recognized: Command: r.SetRes 1920x1080f
+[2025.07.29-13.28.45:011][114]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_0' was already added to the screen.
+[2025.07.29-13.28.45:011][114]LogScript: Warning: Script Msg called by: BP_DuckGameMode_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_DuckGameMode_C_0
+[2025.07.29-13.28.45:011][114]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] Start Game
+[2025.07.29-13.28.45:011][114]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] 300.0
+[2025.07.29-13.28.45:011][114]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] 1.0
+[2025.07.29-13.28.45:011][114]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number0 / 10
+[2025.07.29-13.28.45:011][114]LogBlueprintUserMessages: [BP_Duck_C_0] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-13.28.45:014][114]PIE: Server logged in
+[2025.07.29-13.28.45:015][114]PIE: Play in editor total start time 0,072 seconds.
+[2025.07.29-13.28.48:305][499]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number1 / 10
+[2025.07.29-13.28.48:305][499]LogBlueprintUserMessages: [BP_Duck_C_1] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-13.28.48:305][499]LogScript: Warning: Script Msg: BP_Duck_C_1 ChangeDirection SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.07.29-13.28.48:305][499]LogScript: Warning: Script Msg called by: BP_Duck_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_Duck_C_1
+[2025.07.29-13.28.51:085][831]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number2 / 10
+[2025.07.29-13.28.51:085][831]LogBlueprintUserMessages: [BP_Duck_C_2] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-13.28.51:085][831]LogScript: Warning: Script Msg: BP_Duck_C_2 ChangeDirection SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.07.29-13.28.51:085][831]LogScript: Warning: Script Msg called by: BP_Duck_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_Duck_C_2
+[2025.07.29-13.28.53:455][115]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number3 / 10
+[2025.07.29-13.28.53:457][115]LogBlueprintUserMessages: [BP_Duck_C_3] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-13.28.56:230][447]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number4 / 10
+[2025.07.29-13.28.56:231][447]LogBlueprintUserMessages: [BP_Duck_C_4] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-13.28.59:218][805]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number5 / 10
+[2025.07.29-13.28.59:219][805]LogBlueprintUserMessages: [BP_Duck_C_5] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-13.28.59:219][805]LogScript: Warning: Script Msg: BP_Duck_C_5 ChangeDirection SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.07.29-13.28.59:219][805]LogScript: Warning: Script Msg called by: BP_Duck_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_Duck_C_5
+[2025.07.29-13.29.01:589][ 88]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number6 / 10
+[2025.07.29-13.29.01:590][ 88]LogBlueprintUserMessages: [BP_Duck_C_6] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-13.29.05:477][548]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number7 / 10
+[2025.07.29-13.29.05:477][548]LogBlueprintUserMessages: [BP_Duck_C_7] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-13.29.05:477][548]LogScript: Warning: Script Msg: BP_Duck_C_7 ChangeDirection SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.07.29-13.29.05:477][548]LogScript: Warning: Script Msg called by: BP_Duck_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_Duck_C_7
+[2025.07.29-13.29.05:658][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.29-13.29.05:658][565]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Game
+[2025.07.29-13.29.05:659][565]LogSlate: Window 'DuckHunt3D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.07.29-13.29.05:665][565]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2025.07.29-13.29.05:667][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-13.29.05:669][565]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.29-13.29.05:671][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-13.29.05:689][565]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.07.29-13.29.05:689][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.07.29-13.29.05:691][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.07.29-13.29.05:696][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.07.29-13.29.05:725][567]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.07.29-13.34.37:600][930]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5851.479004
+[2025.07.29-13.34.38:595][933]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.29-13.34.38:595][933]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5852.141602, Update Interval: 344.556396
+[2025.07.29-13.41.18:001][131]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6251.876953
+[2025.07.29-13.41.19:005][134]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.29-13.41.19:005][134]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6252.548340, Update Interval: 357.354034
+[2025.07.29-13.47.48:716][304]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6642.591309
+[2025.07.29-13.47.49:723][306]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.29-13.47.49:723][306]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6643.263184, Update Interval: 313.052155
+[2025.07.29-13.53.55:780][404]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7009.658691
+[2025.07.29-13.53.56:780][407]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.29-13.53.56:780][407]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7010.325684, Update Interval: 332.786041
+[2025.07.29-13.54.59:102][112]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2025.07.29-13.55.32:297][ 69]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 14a...ed8
+[2025.07.29-13.55.32:297][ 69]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.554e+07
+[2025.07.29-13.55.32:464][ 89]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 14a...ed8 Access[Expires: 2025.07.29-15.55.31 Remaining: 7200.45] Refresh[Expires: 2026-01-25T10:13:18.393Z Remaining: 15538667.39] State: Valid
+[2025.07.29-13.57.02:321][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.07.29-13.57.02:945][850]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.29-13.57.02:974][850]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_HUD] ([2] browsable assets)...
+[2025.07.29-13.57.02:978][850]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_HUD.WBP_HUD]
+[2025.07.29-13.57.02:978][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_HUD]
+[2025.07.29-13.57.02:978][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_HUD" FILE="../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Content/UI/WBP_HUD.uasset" SILENT=true
+[2025.07.29-13.57.02:988][850]LogSavePackage: Moving output files for package: /Game/UI/WBP_HUD
+[2025.07.29-13.57.02:988][850]LogSavePackage: Moving '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Saved/WBP_HUD58B0837841305DD889CDACA1F15376E5.tmp' to '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Content/UI/WBP_HUD.uasset'
+[2025.07.29-13.57.02:994][850]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.833 ms (total: 1.36 sec)
+[2025.07.29-13.57.03:022][850]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.29-13.57.03:022][850]LogContentValidation: Enabled validators:
+[2025.07.29-13.57.03:022][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.29-13.57.03:022][850]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.29-13.57.03:022][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.29-13.57.03:022][850]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.29-13.57.03:022][850]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.29-13.57.03:022][850]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.29-13.57.03:023][850]AssetCheck: /Game/UI/WBP_HUD Validating asset
+[2025.07.29-13.57.36:313][207]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.07.29-13.57.36:324][207]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.07.29-13.57.36:327][207]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.07.29-13.57.36:341][208]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.07.29-13.57.44:892][216]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_FlashWhite
+[2025.07.29-13.57.44:897][216]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.07.29-13.57.46:384][391]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/W_FlashWhite.W_FlashWhite
+[2025.07.29-13.57.46:384][391]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.07.29-13.57.46:390][391]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.07.29-13.57.49:340][702]LogSlate: Window 'W_FlashWhite' being destroyed
+[2025.07.29-13.59.02:922][473]LogDerivedDataCache: C:/Users/gonza/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.29-13.59.16:441][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.07.29-13.59.16:442][ 46]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Game' took 0.039
+[2025.07.29-13.59.16:443][ 46]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_FlashWhite] ([2] browsable assets)...
+[2025.07.29-13.59.16:445][ 46]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_FlashWhite.W_FlashWhite]
+[2025.07.29-13.59.16:445][ 46]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_FlashWhite]
+[2025.07.29-13.59.16:447][ 46]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/W_FlashWhite_Auto2
+[2025.07.29-13.59.16:448][ 46]LogSavePackage: Moving '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Saved/W_FlashWhite_Auto218CCB8414A24DEDDAC604088AEF07E73.tmp' to '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Saved/Autosaves/Game/UI/W_FlashWhite_Auto2.uasset'
+[2025.07.29-13.59.16:448][ 46]LogFileHelpers: Auto-saving content packages took 0.005
+[2025.07.29-13.59.19:437][401]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.07.29-13.59.19:437][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-13.59.19:444][401]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.07.29-13.59.19:444][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-13.59.19:484][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.07.29-13.59.19:514][401]LogSlate: Window 'Color Picker' being destroyed
+[2025.07.29-13.59.24:920][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.07.29-13.59.26:343][ 26]LogSlate: Window 'Delete Assets' being destroyed
+[2025.07.29-13.59.26:380][ 26]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/UI/W_FlashWhite.W_FlashWhite
+	Asset Type: WidgetBlueprint
+[2025.07.29-13.59.26:853][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.07.29-13.59.26:866][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.07.29-13.59.26:877][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.07.29-14.00.05:308][559]LogSlate: Window 'Color Picker' being destroyed
+[2025.07.29-14.00.09:917][110]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7383.779297
+[2025.07.29-14.00.10:050][126]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.29-14.00.10:050][126]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7383.904297, Update Interval: 317.631775
+[2025.07.29-14.00.15:465][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.07.29-14.00.16:184][840]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.29-14.00.16:210][840]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_HUD] ([2] browsable assets)...
+[2025.07.29-14.00.16:212][840]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_HUD.WBP_HUD]
+[2025.07.29-14.00.16:212][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_HUD]
+[2025.07.29-14.00.16:212][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_HUD" FILE="../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Content/UI/WBP_HUD.uasset" SILENT=true
+[2025.07.29-14.00.16:222][840]LogSavePackage: Moving output files for package: /Game/UI/WBP_HUD
+[2025.07.29-14.00.16:222][840]LogSavePackage: Moving '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Saved/WBP_HUD70758BF044982E26C5ECE4A9CFADBD08.tmp' to '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Content/UI/WBP_HUD.uasset'
+[2025.07.29-14.00.16:228][840]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.863 ms (total: 1.40 sec)
+[2025.07.29-14.00.16:257][840]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.29-14.00.16:257][840]LogContentValidation: Enabled validators:
+[2025.07.29-14.00.16:257][840]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.29-14.00.16:257][840]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.29-14.00.16:257][840]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.29-14.00.16:257][840]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.29-14.00.16:257][840]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.29-14.00.16:257][840]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.29-14.00.16:257][840]AssetCheck: /Game/UI/WBP_HUD Validating asset
+[2025.07.29-14.06.07:351][896]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7741.198730
+[2025.07.29-14.06.07:484][912]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.29-14.06.07:484][912]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7741.323730, Update Interval: 314.462097
+[2025.07.29-14.08.16:051][472]LogSlate: Window 'Color Picker' being destroyed
+[2025.07.29-14.09.03:803][594]LogSlate: Window 'Color Picker' being destroyed
+[2025.07.29-14.09.05:747][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.07.29-14.09.05:969][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.07.29-14.09.06:483][859]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.29-14.09.06:514][859]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Duck] ([2] browsable assets)...
+[2025.07.29-14.09.06:551][859]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Duck.BP_Duck]
+[2025.07.29-14.09.06:551][859]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Duck]
+[2025.07.29-14.09.06:551][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Duck" FILE="../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Content/Blueprints/BP_Duck.uasset" SILENT=true
+[2025.07.29-14.09.06:585][859]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Duck
+[2025.07.29-14.09.06:586][859]LogSavePackage: Moving '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Saved/BP_DuckC5D93CA349E2F218A10E25A6892CF9E7.tmp' to '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Content/Blueprints/BP_Duck.uasset'
+[2025.07.29-14.09.06:592][859]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.869 ms (total: 1.51 sec)
+[2025.07.29-14.09.06:621][859]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.29-14.09.06:621][859]LogContentValidation: Enabled validators:
+[2025.07.29-14.09.06:621][859]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.29-14.09.06:621][859]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.29-14.09.06:621][859]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.29-14.09.06:621][859]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.29-14.09.06:621][859]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.29-14.09.06:621][859]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.29-14.09.06:621][859]AssetCheck: /Game/Blueprints/BP_Duck Validating asset
+[2025.07.29-14.09.53:375][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.07.29-14.09.53:538][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.07.29-14.09.54:253][417]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.29-14.09.54:283][417]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Duck] ([2] browsable assets)...
+[2025.07.29-14.09.54:322][417]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Duck.BP_Duck]
+[2025.07.29-14.09.54:322][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Duck]
+[2025.07.29-14.09.54:322][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Duck" FILE="../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Content/Blueprints/BP_Duck.uasset" SILENT=true
+[2025.07.29-14.09.54:354][417]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Duck
+[2025.07.29-14.09.54:356][417]LogSavePackage: Moving '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Saved/BP_DuckB46F452848EF88E95C99A5A8C4D39B51.tmp' to '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Content/Blueprints/BP_Duck.uasset'
+[2025.07.29-14.09.54:362][417]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.135 ms (total: 1.62 sec)
+[2025.07.29-14.09.54:392][417]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.29-14.09.54:392][417]LogContentValidation: Enabled validators:
+[2025.07.29-14.09.54:392][417]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.29-14.09.54:392][417]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.29-14.09.54:392][417]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.29-14.09.54:392][417]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.29-14.09.54:392][417]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.29-14.09.54:392][417]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.29-14.09.54:392][417]AssetCheck: /Game/Blueprints/BP_Duck Validating asset
+[2025.07.29-14.09.55:361][513]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.29-14.09.55:367][513]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.29-14.09.55:407][513]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Game
+[2025.07.29-14.09.55:417][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010065s)
+[2025.07.29-14.09.55:417][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Game.Game to /Game/Maps/UEDPIE_0_Game.Game (0.010108s)
+[2025.07.29-14.09.55:431][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.07.29-14.09.55:433][513]LogChaosDD: Creating Chaos Debug Draw Scene for world Game
+[2025.07.29-14.09.55:434][513]LogPlayLevel: PIE: World Init took: (0.001151s)
+[2025.07.29-14.09.55:436][513]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.07.29-14.09.55:436][513]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.29-14.09.55:436][513]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.29-14.09.55:436][513]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.29-14.09.55:436][513]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.29-14.09.55:436][513]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.07.29-14.09.55:436][513]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.29-14.09.55:436][513]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.07.29-14.09.55:436][513]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.29-14.09.55:436][513]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.29-14.09.55:436][513]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.29-14.09.55:436][513]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.29-14.09.55:438][513]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.29-14.09.55:459][513]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- High Definition Audio Device)
+[2025.07.29-14.09.55:459][513]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.29-14.09.55:459][513]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.29-14.09.55:459][513]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.29-14.09.55:459][513]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.07.29-14.09.55:459][513]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.07.29-14.09.55:461][513]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.07.29-14.09.55:461][513]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.07.29-14.09.55:461][513]LogInit: FAudioDevice initialized with ID 14.
+[2025.07.29-14.09.55:461][513]LogAudio: Display: Audio Device (ID: 14) registered with world 'Game'.
+[2025.07.29-14.09.55:461][513]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.07.29-14.09.55:463][513]LogLoad: Game class is 'BP_DuckGameMode_C'
+[2025.07.29-14.09.55:466][513]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2025.07.29-16.09.55
+[2025.07.29-14.09.55:466][513]LogWorld: Bringing up level for play took: 0.002910
+[2025.07.29-14.09.55:467][513]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.07.29-14.09.55:469][513]Cmd: Command: r.SetRes 1920x1080f
+[2025.07.29-14.09.55:469][513]Command not recognized: Command: r.SetRes 1920x1080f
+[2025.07.29-14.09.55:470][513]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_0' was already added to the screen.
+[2025.07.29-14.09.55:470][513]LogScript: Warning: Script Msg called by: BP_DuckGameMode_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_DuckGameMode_C_0
+[2025.07.29-14.09.55:470][513]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] Start Game
+[2025.07.29-14.09.55:470][513]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] 300.0
+[2025.07.29-14.09.55:470][513]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] 1.0
+[2025.07.29-14.09.55:470][513]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number0 / 10
+[2025.07.29-14.09.55:471][513]LogBlueprintUserMessages: [BP_Duck_C_0] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-14.09.55:471][513]LogScript: Warning: Script Msg: BP_Duck_C_0 ChangeDirection SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.07.29-14.09.55:471][513]LogScript: Warning: Script Msg called by: BP_Duck_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_Duck_C_0
+[2025.07.29-14.09.55:471][513]PIE: Server logged in
+[2025.07.29-14.09.55:472][513]PIE: Play in editor total start time 0,106 seconds.
+[2025.07.29-14.09.58:541][875]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number1 / 10
+[2025.07.29-14.09.58:542][875]LogBlueprintUserMessages: [BP_Duck_C_1] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-14.09.58:542][875]LogScript: Warning: Script Msg: BP_Duck_C_1 ChangeDirection SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.07.29-14.09.58:542][875]LogScript: Warning: Script Msg called by: BP_Duck_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_Duck_C_1
+[2025.07.29-14.10.01:259][201]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number2 / 10
+[2025.07.29-14.10.01:260][201]LogBlueprintUserMessages: [BP_Duck_C_2] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-14.10.01:260][201]LogScript: Warning: Script Msg: BP_Duck_C_2 ChangeDirection SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.07.29-14.10.01:260][201]LogScript: Warning: Script Msg called by: BP_Duck_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_Duck_C_2
+[2025.07.29-14.10.03:942][523]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number3 / 10
+[2025.07.29-14.10.03:943][523]LogBlueprintUserMessages: [BP_Duck_C_3] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-14.10.06:983][888]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number4 / 10
+[2025.07.29-14.10.06:983][888]LogBlueprintUserMessages: [BP_Duck_C_4] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-14.10.06:984][888]LogScript: Warning: Script Msg: BP_Duck_C_4 ChangeDirection SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.07.29-14.10.06:984][888]LogScript: Warning: Script Msg called by: BP_Duck_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_Duck_C_4
+[2025.07.29-14.10.08:458][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.29-14.10.08:458][ 59]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Game
+[2025.07.29-14.10.08:458][ 59]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2025.07.29-14.10.08:460][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-14.10.08:464][ 59]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.29-14.10.08:467][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-14.10.08:483][ 59]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.29-14.10.08:483][ 59]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.07.29-14.10.08:483][ 59]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.07.29-14.10.08:485][ 59]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.07.29-14.10.08:487][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.29-14.10.08:489][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.07.29-14.10.08:512][ 60]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.07.29-14.10.27:768][418]LogSlate: Window 'Color Picker' being destroyed
+[2025.07.29-14.10.29:058][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.07.29-14.10.29:290][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.07.29-14.10.29:520][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.07.29-14.10.29:973][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.29-14.10.29:994][599]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Duck] ([2] browsable assets)...
+[2025.07.29-14.10.30:030][599]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Duck.BP_Duck]
+[2025.07.29-14.10.30:030][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Duck]
+[2025.07.29-14.10.30:031][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Duck" FILE="../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Content/Blueprints/BP_Duck.uasset" SILENT=true
+[2025.07.29-14.10.30:062][599]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Duck
+[2025.07.29-14.10.30:063][599]LogSavePackage: Moving '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Saved/BP_DuckAD83165840C8722C59141EB9380F777F.tmp' to '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Content/Blueprints/BP_Duck.uasset'
+[2025.07.29-14.10.30:070][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.431 ms (total: 1.72 sec)
+[2025.07.29-14.10.30:091][599]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.29-14.10.30:091][599]LogContentValidation: Enabled validators:
+[2025.07.29-14.10.30:091][599]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.29-14.10.30:091][599]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.29-14.10.30:091][599]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.29-14.10.30:091][599]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.29-14.10.30:091][599]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.29-14.10.30:091][599]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.29-14.10.30:091][599]AssetCheck: /Game/Blueprints/BP_Duck Validating asset
+[2025.07.29-14.10.30:448][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.07.29-14.10.30:674][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.07.29-14.10.31:034][657]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.29-14.10.31:064][657]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Duck] ([2] browsable assets)...
+[2025.07.29-14.10.31:099][657]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Duck.BP_Duck]
+[2025.07.29-14.10.31:099][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Duck]
+[2025.07.29-14.10.31:099][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Duck" FILE="../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Content/Blueprints/BP_Duck.uasset" SILENT=true
+[2025.07.29-14.10.31:132][657]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Duck
+[2025.07.29-14.10.31:132][657]LogSavePackage: Moving '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Saved/BP_Duck3E47F8A049FE45CA9176528C86F70D7F.tmp' to '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Content/Blueprints/BP_Duck.uasset'
+[2025.07.29-14.10.31:140][657]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.381 ms (total: 1.82 sec)
+[2025.07.29-14.10.31:167][657]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.29-14.10.31:167][657]LogContentValidation: Enabled validators:
+[2025.07.29-14.10.31:167][657]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.29-14.10.31:167][657]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.29-14.10.31:167][657]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.29-14.10.31:167][657]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.29-14.10.31:167][657]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.29-14.10.31:167][657]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.29-14.10.31:167][657]AssetCheck: /Game/Blueprints/BP_Duck Validating asset
+[2025.07.29-14.10.32:108][751]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.29-14.10.32:114][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.29-14.10.32:137][751]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Game
+[2025.07.29-14.10.32:144][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006635s)
+[2025.07.29-14.10.32:144][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Game.Game to /Game/Maps/UEDPIE_0_Game.Game (0.006668s)
+[2025.07.29-14.10.32:157][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.07.29-14.10.32:162][751]LogChaosDD: Creating Chaos Debug Draw Scene for world Game
+[2025.07.29-14.10.32:163][751]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2025.07.29-14.10.32:163][751]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.07.29-14.10.32:163][751]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.29-14.10.32:163][751]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.29-14.10.32:163][751]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.29-14.10.32:163][751]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.29-14.10.32:163][751]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.07.29-14.10.32:163][751]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.29-14.10.32:163][751]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.07.29-14.10.32:163][751]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.29-14.10.32:163][751]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.29-14.10.32:163][751]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.29-14.10.32:163][751]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.29-14.10.32:165][751]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.29-14.10.32:182][751]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- High Definition Audio Device)
+[2025.07.29-14.10.32:183][751]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.29-14.10.32:183][751]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.29-14.10.32:183][751]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.29-14.10.32:183][751]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.07.29-14.10.32:183][751]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.07.29-14.10.32:185][751]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.07.29-14.10.32:185][751]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.07.29-14.10.32:185][751]LogInit: FAudioDevice initialized with ID 15.
+[2025.07.29-14.10.32:185][751]LogAudio: Display: Audio Device (ID: 15) registered with world 'Game'.
+[2025.07.29-14.10.32:185][751]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.07.29-14.10.32:186][751]LogLoad: Game class is 'BP_DuckGameMode_C'
+[2025.07.29-14.10.32:189][751]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2025.07.29-16.10.32
+[2025.07.29-14.10.32:189][751]LogWorld: Bringing up level for play took: 0.002777
+[2025.07.29-14.10.32:191][751]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2025.07.29-14.10.32:192][751]Cmd: Command: r.SetRes 1920x1080f
+[2025.07.29-14.10.32:193][751]Command not recognized: Command: r.SetRes 1920x1080f
+[2025.07.29-14.10.32:193][751]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_0' was already added to the screen.
+[2025.07.29-14.10.32:193][751]LogScript: Warning: Script Msg called by: BP_DuckGameMode_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_DuckGameMode_C_0
+[2025.07.29-14.10.32:193][751]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] Start Game
+[2025.07.29-14.10.32:193][751]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] 300.0
+[2025.07.29-14.10.32:193][751]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] 1.0
+[2025.07.29-14.10.32:193][751]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number0 / 10
+[2025.07.29-14.10.32:194][751]LogBlueprintUserMessages: [BP_Duck_C_0] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-14.10.32:194][751]LogScript: Warning: Script Msg: BP_Duck_C_0 ChangeDirection SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.07.29-14.10.32:194][751]LogScript: Warning: Script Msg called by: BP_Duck_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_Duck_C_0
+[2025.07.29-14.10.32:194][751]PIE: Server logged in
+[2025.07.29-14.10.32:194][751]PIE: Play in editor total start time 0,082 seconds.
+[2025.07.29-14.10.35:441][134]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number1 / 10
+[2025.07.29-14.10.35:442][134]LogBlueprintUserMessages: [BP_Duck_C_1] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-14.10.35:442][134]LogScript: Warning: Script Msg: BP_Duck_C_1 ChangeDirection SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.07.29-14.10.35:442][134]LogScript: Warning: Script Msg called by: BP_Duck_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_Duck_C_1
+[2025.07.29-14.10.39:359][604]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number2 / 10
+[2025.07.29-14.10.39:360][604]LogBlueprintUserMessages: [BP_Duck_C_2] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-14.10.39:360][604]LogScript: Warning: Script Msg: BP_Duck_C_2 ChangeDirection SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.07.29-14.10.39:360][604]LogScript: Warning: Script Msg called by: BP_Duck_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_Duck_C_2
+[2025.07.29-14.10.42:008][922]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number3 / 10
+[2025.07.29-14.10.42:008][922]LogBlueprintUserMessages: [BP_Duck_C_3] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-14.10.42:008][922]LogScript: Warning: Script Msg: BP_Duck_C_3 ChangeDirection SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.07.29-14.10.42:008][922]LogScript: Warning: Script Msg called by: BP_Duck_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_Duck_C_3
+[2025.07.29-14.10.42:957][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.29-14.10.42:957][ 31]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Game
+[2025.07.29-14.10.42:957][ 31]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2025.07.29-14.10.42:958][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-14.10.42:961][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.29-14.10.42:964][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-14.10.42:977][ 31]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.29-14.10.42:978][ 31]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.07.29-14.10.42:978][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.07.29-14.10.42:979][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.07.29-14.10.42:983][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.29-14.10.42:985][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.07.29-14.10.43:030][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.07.29-14.10.45:208][284]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.29-14.10.45:214][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.29-14.10.45:214][284]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Game
+[2025.07.29-14.10.45:221][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006580s)
+[2025.07.29-14.10.45:221][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Game.Game to /Game/Maps/UEDPIE_0_Game.Game (0.006605s)
+[2025.07.29-14.10.45:234][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.07.29-14.10.45:236][284]LogChaosDD: Creating Chaos Debug Draw Scene for world Game
+[2025.07.29-14.10.45:237][284]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2025.07.29-14.10.45:238][284]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.07.29-14.10.45:238][284]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.29-14.10.45:238][284]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.29-14.10.45:238][284]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.29-14.10.45:238][284]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.29-14.10.45:238][284]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.07.29-14.10.45:238][284]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.29-14.10.45:238][284]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.07.29-14.10.45:238][284]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.29-14.10.45:238][284]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.29-14.10.45:238][284]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.29-14.10.45:238][284]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.29-14.10.45:240][284]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.29-14.10.45:257][284]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- High Definition Audio Device)
+[2025.07.29-14.10.45:257][284]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.29-14.10.45:257][284]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.29-14.10.45:257][284]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.29-14.10.45:257][284]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.07.29-14.10.45:257][284]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.07.29-14.10.45:259][284]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.07.29-14.10.45:259][284]LogInit: FAudioDevice initialized with ID 16.
+[2025.07.29-14.10.45:259][284]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.07.29-14.10.45:259][284]LogAudio: Display: Audio Device (ID: 16) registered with world 'Game'.
+[2025.07.29-14.10.45:259][284]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.07.29-14.10.45:285][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.29-14.10.45:285][284]LogLoad: Game class is 'BP_DuckGameMode_C'
+[2025.07.29-14.10.45:287][284]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2025.07.29-16.10.45
+[2025.07.29-14.10.45:287][284]LogWorld: Bringing up level for play took: 0.002799
+[2025.07.29-14.10.45:290][284]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.07.29-14.10.45:291][284]Cmd: Command: r.SetRes 1920x1080f
+[2025.07.29-14.10.45:291][284]Command not recognized: Command: r.SetRes 1920x1080f
+[2025.07.29-14.10.45:292][284]LogScript: Warning: Script Msg: The widget 'WBP_HUD_C_0' was already added to the screen.
+[2025.07.29-14.10.45:292][284]LogScript: Warning: Script Msg called by: BP_DuckGameMode_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_DuckGameMode_C_0
+[2025.07.29-14.10.45:292][284]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] Start Game
+[2025.07.29-14.10.45:292][284]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] 300.0
+[2025.07.29-14.10.45:292][284]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] 1.0
+[2025.07.29-14.10.45:292][284]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number0 / 10
+[2025.07.29-14.10.45:292][284]LogBlueprintUserMessages: [BP_Duck_C_0] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-14.10.45:292][284]LogScript: Warning: Script Msg: BP_Duck_C_0 ChangeDirection SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.07.29-14.10.45:292][284]LogScript: Warning: Script Msg called by: BP_Duck_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_Duck_C_0
+[2025.07.29-14.10.45:297][284]PIE: Server logged in
+[2025.07.29-14.10.45:299][284]PIE: Play in editor total start time 0,085 seconds.
+[2025.07.29-14.10.49:864][808]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number1 / 10
+[2025.07.29-14.10.49:864][808]LogBlueprintUserMessages: [BP_Duck_C_1] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-14.10.49:864][808]LogScript: Warning: Script Msg: BP_Duck_C_1 ChangeDirection SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.07.29-14.10.49:864][808]LogScript: Warning: Script Msg called by: BP_Duck_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_Duck_C_1
+[2025.07.29-14.10.52:636][128]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number2 / 10
+[2025.07.29-14.10.52:637][128]LogBlueprintUserMessages: [BP_Duck_C_2] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-14.10.56:463][569]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number3 / 10
+[2025.07.29-14.10.56:463][569]LogBlueprintUserMessages: [BP_Duck_C_3] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-14.11.01:693][174]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number4 / 10
+[2025.07.29-14.11.01:694][174]LogBlueprintUserMessages: [BP_Duck_C_4] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-14.11.07:030][769]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number5 / 10
+[2025.07.29-14.11.07:031][769]LogBlueprintUserMessages: [BP_Duck_C_5] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-14.11.11:254][228]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number6 / 10
+[2025.07.29-14.11.11:255][228]LogBlueprintUserMessages: [BP_Duck_C_6] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-14.11.16:601][811]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number7 / 10
+[2025.07.29-14.11.16:602][811]LogBlueprintUserMessages: [BP_Duck_C_7] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-14.11.16:602][811]LogScript: Warning: Script Msg: BP_Duck_C_7 ChangeDirection SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.07.29-14.11.16:602][811]LogScript: Warning: Script Msg called by: BP_Duck_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_Duck_C_7
+[2025.07.29-14.11.25:502][786]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number8 / 10
+[2025.07.29-14.11.25:502][786]LogBlueprintUserMessages: [BP_Duck_C_8] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-14.11.25:502][786]LogScript: Warning: Script Msg: BP_Duck_C_8 ChangeDirection SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.07.29-14.11.25:502][786]LogScript: Warning: Script Msg called by: BP_Duck_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_Duck_C_8
+[2025.07.29-14.11.33:788][682]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number9 / 10
+[2025.07.29-14.11.33:789][682]LogBlueprintUserMessages: [BP_Duck_C_9] Speed 300  IndChangeDirection 1  Green  50% Blue 35%
+[2025.07.29-14.11.38:396][182]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number10 / 10
+[2025.07.29-14.11.38:396][182]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] Ronda: 1 Duck: 9/6
+[2025.07.29-14.11.40:389][400]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] 325.0
+[2025.07.29-14.11.40:390][400]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] 0.99
+[2025.07.29-14.11.40:390][400]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number0 / 10
+[2025.07.29-14.11.40:390][400]LogBlueprintUserMessages: [BP_Duck_C_10] Speed 325  IndChangeDirection 0,99  Green  45% Blue 35%
+[2025.07.29-14.11.40:390][400]LogScript: Warning: Script Msg: BP_Duck_C_10 ChangeDirection SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.07.29-14.11.40:390][400]LogScript: Warning: Script Msg called by: BP_Duck_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_Duck_C_10
+[2025.07.29-14.11.42:790][658]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number1 / 10
+[2025.07.29-14.11.42:791][658]LogBlueprintUserMessages: [BP_Duck_C_11] Speed 325  IndChangeDirection 0,99  Green  45% Blue 35%
+[2025.07.29-14.11.42:791][658]LogScript: Warning: Script Msg: BP_Duck_C_11 ChangeDirection SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.07.29-14.11.42:791][658]LogScript: Warning: Script Msg called by: BP_Duck_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_Duck_C_11
+[2025.07.29-14.11.47:671][185]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number2 / 10
+[2025.07.29-14.11.47:671][185]LogBlueprintUserMessages: [BP_Duck_C_12] Speed 325  IndChangeDirection 0,99  Green  45% Blue 35%
+[2025.07.29-14.11.47:671][185]LogScript: Warning: Script Msg: BP_Duck_C_12 ChangeDirection SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.07.29-14.11.47:671][185]LogScript: Warning: Script Msg called by: BP_Duck_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_Duck_C_12
+[2025.07.29-14.11.50:495][492]LogBlueprintUserMessages: [BP_DuckGameMode_C_0] SpawnDuck Number3 / 10
+[2025.07.29-14.11.50:496][492]LogBlueprintUserMessages: [BP_Duck_C_13] Speed 325  IndChangeDirection 0,99  Green  45% Blue 35%
+[2025.07.29-14.11.50:496][492]LogScript: Warning: Script Msg: BP_Duck_C_13 ChangeDirection SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2025.07.29-14.11.50:496][492]LogScript: Warning: Script Msg called by: BP_Duck_C /Game/Maps/UEDPIE_0_Game.Game:PersistentLevel.BP_Duck_C_13
+[2025.07.29-14.11.53:717][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.29-14.11.53:718][838]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Game
+[2025.07.29-14.11.53:718][838]LogSlate: Window 'DuckHunt3D Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.07.29-14.11.53:724][838]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2025.07.29-14.11.53:725][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-14.11.53:727][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.29-14.11.53:729][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-14.11.53:749][838]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.07.29-14.11.53:749][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.07.29-14.11.53:750][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.07.29-14.11.53:756][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.07.29-14.11.53:792][840]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.07.29-14.11.55:021][986]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8088.826172
+[2025.07.29-14.11.55:067][992]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.29-14.11.55:097][992]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Duck] ([2] browsable assets)...
+[2025.07.29-14.11.55:097][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Duck]
+[2025.07.29-14.11.55:097][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Duck" FILE="../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Content/Blueprints/BP_Duck.uasset" SILENT=true
+[2025.07.29-14.11.55:129][992]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Duck
+[2025.07.29-14.11.55:130][992]LogSavePackage: Moving '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Saved/BP_Duck91DB770F4D3B44720EC089B8AC026DC5.tmp' to '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Content/Blueprints/BP_Duck.uasset'
+[2025.07.29-14.11.55:136][992]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.716 ms (total: 1.89 sec)
+[2025.07.29-14.11.55:164][992]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.29-14.11.55:165][992]LogContentValidation: Enabled validators:
+[2025.07.29-14.11.55:165][992]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.29-14.11.55:165][992]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.29-14.11.55:165][992]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.29-14.11.55:165][992]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.29-14.11.55:165][992]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.29-14.11.55:165][992]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.29-14.11.55:165][992]AssetCheck: /Game/Blueprints/BP_Duck Validating asset
+[2025.07.29-14.11.55:182][993]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.29-14.11.55:182][993]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8088.980469, Update Interval: 322.974945
+[2025.07.29-14.11.55:378][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.29-14.11.55:396][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Duck] ([2] browsable assets)...
+[2025.07.29-14.11.55:396][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Duck]
+[2025.07.29-14.11.55:396][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Duck" FILE="../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Content/Blueprints/BP_Duck.uasset" SILENT=true
+[2025.07.29-14.11.55:428][ 17]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Duck
+[2025.07.29-14.11.55:429][ 17]LogSavePackage: Moving '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Saved/BP_Duck0FB3DBE54EB72E1E45C1068EA9336F33.tmp' to '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Content/Blueprints/BP_Duck.uasset'
+[2025.07.29-14.11.55:435][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.300 ms (total: 1.95 sec)
+[2025.07.29-14.11.55:463][ 17]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.29-14.11.55:463][ 17]LogContentValidation: Enabled validators:
+[2025.07.29-14.11.55:463][ 17]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.29-14.11.55:463][ 17]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.29-14.11.55:463][ 17]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.29-14.11.55:463][ 17]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.29-14.11.55:463][ 17]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.29-14.11.55:464][ 17]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.29-14.11.55:464][ 17]AssetCheck: /Game/Blueprints/BP_Duck Validating asset
+[2025.07.29-14.11.56:076][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.07.29-14.11.56:309][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.07.29-14.11.56:652][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.29-14.11.56:674][104]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Duck] ([2] browsable assets)...
+[2025.07.29-14.11.56:701][104]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Duck.BP_Duck]
+[2025.07.29-14.11.56:701][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Duck]
+[2025.07.29-14.11.56:701][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Duck" FILE="../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Content/Blueprints/BP_Duck.uasset" SILENT=true
+[2025.07.29-14.11.56:733][104]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Duck
+[2025.07.29-14.11.56:734][104]LogSavePackage: Moving '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Saved/BP_Duck60A4F78744370DFB5AD054A6ED20E65B.tmp' to '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Content/Blueprints/BP_Duck.uasset'
+[2025.07.29-14.11.56:741][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.050 ms (total: 2.04 sec)
+[2025.07.29-14.11.56:762][104]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.29-14.11.56:762][104]LogContentValidation: Enabled validators:
+[2025.07.29-14.11.56:762][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.29-14.11.56:762][104]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.29-14.11.56:762][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.29-14.11.56:762][104]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.29-14.11.56:762][104]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.29-14.11.56:762][104]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.29-14.11.56:763][104]AssetCheck: /Game/Blueprints/BP_Duck Validating asset
+[2025.07.29-14.11.56:877][117]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.29-14.11.56:897][117]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Duck] ([2] browsable assets)...
+[2025.07.29-14.11.56:897][117]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Duck]
+[2025.07.29-14.11.56:897][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Duck" FILE="../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Content/Blueprints/BP_Duck.uasset" SILENT=true
+[2025.07.29-14.11.56:929][117]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Duck
+[2025.07.29-14.11.56:929][117]LogSavePackage: Moving '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Saved/BP_DuckACED0DEA450C1601DD6C2FA60CAF540F.tmp' to '../../../../../../Users/gonza/Documents/Videojuegos propios/DuckHunt3D/Project/DuckHunt3D/Content/Blueprints/BP_Duck.uasset'
+[2025.07.29-14.11.56:937][117]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.728 ms (total: 2.10 sec)
+[2025.07.29-14.11.56:964][117]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.29-14.11.56:964][117]LogContentValidation: Enabled validators:
+[2025.07.29-14.11.56:964][117]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.29-14.11.56:964][117]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.29-14.11.56:964][117]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.29-14.11.56:964][117]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.29-14.11.56:966][117]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.29-14.11.56:966][117]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.29-14.11.56:966][117]AssetCheck: /Game/Blueprints/BP_Duck Validating asset
+[2025.07.29-14.11.58:798][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.07.29-14.12.00:478][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.07.29-14.12.01:392][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.07.29-14.12.01:430][608]LogStall: Shutdown...
+[2025.07.29-14.12.01:430][608]LogStall: Shutdown complete.
+[2025.07.29-14.12.01:526][608]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.07.29-14.12.01:526][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-14.12.01:589][608]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.07.29-14.12.01:589][608]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.07.29-14.12.01:589][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-14.12.01:636][608]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.07.29-14.12.01:636][608]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.07.29-14.12.01:636][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-14.12.01:689][608]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.07.29-14.12.01:689][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-14.12.01:694][608]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.07.29-14.12.01:696][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-14.12.01:731][608]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.07.29-14.12.01:731][608]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.07.29-14.12.01:731][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-14.12.01:782][608]LogSlate: Window 'DuckHunt3D - Unreal Editor' being destroyed
+[2025.07.29-14.12.01:783][608]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2025.07.29-14.12.01:926][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.07.29-14.12.01:946][609]Cmd: QUIT_EDITOR
+[2025.07.29-14.12.01:947][609]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.07.29-14.12.01:952][609]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.07.29-14.12.01:952][609]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.07.29-14.12.01:952][609]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.07.29-14.12.01:953][609]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2025.07.29-14.12.01:954][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-14.12.01:962][609]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.07.29-14.12.01:962][609]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.07.29-14.12.01:972][609]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.07.29-14.12.01:973][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-14.12.01:974][609]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.07.29-14.12.01:974][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-14.12.01:975][609]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.07.29-14.12.01:975][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.29-14.12.01:977][609]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.07.29-14.12.01:978][609]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.07.29-14.12.01:978][609]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.07.29-14.12.01:978][609]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.07.29-14.12.02:512][609]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.07.29-14.12.02:512][609]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.07.29-14.12.02:512][609]LogAudio: Display: Audio Device unregistered from world 'Game'.
+[2025.07.29-14.12.02:512][609]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.07.29-14.12.02:512][609]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.07.29-14.12.02:514][609]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.07.29-14.12.02:523][609]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.07.29-14.12.02:523][609]LogAudio: Display: Audio Device Manager Shutdown
+[2025.07.29-14.12.02:526][609]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.07.29-14.12.02:526][609]LogExit: Preparing to exit.
+[2025.07.29-14.12.02:553][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.07.29-14.12.02:555][609]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.29-14.12.02:555][609]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.29-14.12.02:555][609]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.29-14.12.02:555][609]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.29-14.12.02:555][609]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.29-14.12.02:555][609]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.29-14.12.02:555][609]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.29-14.12.02:555][609]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.29-14.12.02:555][609]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.29-14.12.02:555][609]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.29-14.12.02:555][609]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.29-14.12.02:555][609]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.29-14.12.02:555][609]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.29-14.12.02:555][609]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.29-14.12.02:555][609]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.29-14.12.02:555][609]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.29-14.12.02:555][609]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.29-14.12.02:555][609]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.29-14.12.02:555][609]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.29-14.12.02:556][609]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.29-14.12.02:556][609]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.29-14.12.03:063][609]LogEditorDataStorage: Deinitializing
+[2025.07.29-14.12.03:226][609]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.07.29-14.12.03:237][609]LogExit: Editor shut down
+[2025.07.29-14.12.03:239][609]LogExit: Transaction tracking system shut down
+[2025.07.29-14.12.03:334][609]LogExit: Object subsystem successfully closed.
+[2025.07.29-14.12.03:420][609]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.07.29-14.12.03:848][609]LogMemoryProfiler: Shutdown
+[2025.07.29-14.12.03:848][609]LogNetworkingProfiler: Shutdown
+[2025.07.29-14.12.03:848][609]LoadingProfiler: Shutdown
+[2025.07.29-14.12.03:848][609]LogTimingProfiler: Shutdown
+[2025.07.29-14.12.04:190][609]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.07.29-14.12.04:217][609]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.07.29-14.12.04:217][609]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4D8A7FC2-4B49-A353-C129-3D89993CD0D3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=f10efdff46774dd885d755aa1d55af65%7C4f513cb4732e47638c1f7f26f46d9032%7C7167d76b-d0ca-4064-84dd-89b97533681d&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.07.29-14.12.04:784][609]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.07.29-14.12.04:790][609]RenderDocPlugin: plugin has been unloaded.
+[2025.07.29-14.12.04:790][609]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.07.29-14.12.04:790][609]LogNFORDenoise: NFORDenoise function shutting down
+[2025.07.29-14.12.04:790][609]LogXGEController: Cleaning working directory: C:/Users/gonza/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.07.29-14.12.04:791][609]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.07.29-14.12.04:791][609]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.07.29-14.12.04:791][609]LogPakFile: Destroying PakPlatformFile
+[2025.07.29-14.12.04:999][609]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.07.29-14.12.05:096][609]LogExit: Exiting.
+[2025.07.29-14.12.05:112][609]Log file closed, 07/29/25 16:12:05
